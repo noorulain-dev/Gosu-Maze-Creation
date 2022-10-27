@@ -27,3 +27,7 @@ UPDATE
 
 DRAW
 - Draw (or Redraw) the window. This is procedure i.e the return value is 'undefined'
+
+![Screenshot (389)](https://user-images.githubusercontent.com/80438950/198366377-461ea3c1-81de-48ba-85b7-8bfc4d60bc4c.png)
+
+
